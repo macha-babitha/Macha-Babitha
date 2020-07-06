@@ -45,7 +45,7 @@
 
 -  **Wind**  **Energy**  - _May_  _2016_
 
-  - Windmill  blades  rotate  clockwise  or  anticlockwise  with  mouse  input  and  generates  electricity,  which  lights  up  the villages and  homes. <br>
+   - Windmill  blades  rotate  clockwise  or  anticlockwise  with  mouse  input  and  generates  electricity,  which  lights  up  the villages and  homes. <br>
 **Technologies used:** C++, OpenGL
 
 
@@ -64,7 +64,7 @@ Selenium | NASSCOM | Mar 2018
 Web Designing |myTectra| Sep 2016
 
 
-
+<br>
 
 Workshop| Offered by | Year
 ---|---|---
@@ -72,7 +72,7 @@ Android Programming | KSSEM Apr |2017
 Virtual Reality| IIT Madras | Jan 2016
 3D Animation | IIT Madras |Jan 2016
 
-
+<br>
 
 
 Internship| Offered by | Year
@@ -80,7 +80,7 @@ Internship| Offered by | Year
 AI, ML, DL | BENNETT | Jun 2019
 
 
-
+<br>
 
 
 Work| Offered by | Year
