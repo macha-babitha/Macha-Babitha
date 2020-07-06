@@ -4,9 +4,9 @@
 # ***EDUCATION***
 
 -  **Master of Technology,**  **Computer**  **Science**  - _2020_
-  - Sree Vidyanikethan Engineering College, Jawaharlal Nehru Technological University Anantapur, Tirupathi CGPA: 8.97* , topper of the class 2018.
+    - Sree Vidyanikethan Engineering College, Jawaharlal Nehru Technological University Anantapur, Tirupathi CGPA: 8.97* , topper of the class 2018.
   
-  - ***Relevant Coursework:*** _Software Testing, Data Warehousing & Data Mining, Information Security, Big Data Analytics Cloud Computing, Advanced Operating Systems_
+    - ***Relevant Coursework:*** _Software Testing, Data Warehousing & Data Mining, Information Security, Big Data Analytics Cloud Computing, Advanced Operating Systems_
 
 - **Bachelor of Engineering, Computer Science**  **and**  **Engineering**  _- 2017_
 
