@@ -1,5 +1,4 @@
 # **Macha Babitha**
-*Cell*: +91 8074899947  <br>
 *Mail*: machababitha@gmail.com
 
 # ***EDUCATION***
