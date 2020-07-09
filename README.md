@@ -27,12 +27,12 @@
 
 # ***PROJECTS***
 
-- **Pest**  **and**  **Disease**  **Detection**  **in**  **Cultivated**  **Land**  **using**  **Deep**  **Learning**  **Techniques**  - _Jun_  _2020_
+- **Pest**  **and**  **Disease**  **Detection**  **in**  **Cultivated**  **Land**  **using**  **Deep**  **Learning**  **Techniques**  - _Jul_  _2020_
 
   -  Developed  an  automated  detection  system  using  Faster  RCNN  combined  with  ResNet50  in  order  to  detect  tomato pest  &  disease,  includes  intra-  and  extra-  class  variations,  infection  status  and  location  on  the  plant. <br>
 **Technologies used:** Deep Learning, Image Processing, Python, OpenCV  <br><br>
 
--  **Weed Detection using Deep**  **Learning**  **Techniques**  - _Jul_  _2020_
+-  **Weed Detection using Deep**  **Learning**  **Techniques**  - _Jun_  _2020_
 
      - Developed  an  automated  weed  detection  system  using  Faster  RCNN  combined  with  Inception  V2  to  detect  weeds in paddy and tomato  fields. <br>
 **Technologies used:** Deep Learning, Image Processing, Python, OpenCV  <br><br>
