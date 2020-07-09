@@ -67,7 +67,7 @@ Web Designing |myTectra| Sep 2016
 
 Workshop| Offered by | Year
 ---|---|---
-Android Programming | KSSEM Apr |2017
+Android Programming | KSSEM  | Apr 2017
 Virtual Reality| IIT Madras | Jan 2016
 3D Animation | IIT Madras |Jan 2016
 
